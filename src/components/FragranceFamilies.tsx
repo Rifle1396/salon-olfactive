@@ -4,19 +4,19 @@ const families = [
   {
     id: 'woody',
     title: 'Woody',
-    image: '/images/family-woody.jpg',
+    image: 'https://images.unsplash.com/photo-1595425970375-c3146150c2e2?auto=format&fit=crop&w=900&q=80',
     copy: 'Cedar, vetiver, and dry resins. Structured bases that stay close to skin.',
   },
   {
     id: 'amber',
     title: 'Amber',
-    image: '/images/family-amber.jpg',
+    image: 'https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=900&q=80',
     copy: 'Labdanum, benzoin, and warm balsams. Slow openings, long dry-downs.',
   },
   {
     id: 'leather',
     title: 'Leather',
-    image: '/images/family-leather.jpg',
+    image: 'https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=900&q=80',
     copy: 'Birch tar, suede accords, and smoky facets. Quiet intensity.',
   },
 ];
