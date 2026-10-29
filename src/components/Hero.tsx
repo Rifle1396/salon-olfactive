@@ -28,7 +28,7 @@ export const Hero: React.FC<HeroProps> = ({ onVisitClick }) => {
     <header ref={heroRef} className="relative min-h-[92vh] sm:min-h-screen w-full flex flex-col justify-between overflow-hidden bg-[#14110F] text-[#F6F1EA]">
       <div className="absolute inset-0 overflow-hidden pointer-events-none select-none">
         <motion.div style={{ y: imageY }} className="relative w-full h-[115%] -top-[7%]">
-          <img src="https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&w=1800&q=80" alt="Salon Olfactive atelier" className="w-full h-full object-cover object-center filter brightness-[0.62] contrast-[1.08]" />
+          <img src="https://images.unsplash.com/photo-1595425970375-c3146150c2e2?auto=format&fit=crop&w=1800&q=80" alt="Salon Olfactive atelier" className="w-full h-full object-cover object-center filter brightness-[0.62] contrast-[1.08]" />
         </motion.div>
         <div className="absolute inset-0 bg-gradient-to-t from-[#14110F] via-[#14110F]/45 to-[#14110F]/70" />
       </div>

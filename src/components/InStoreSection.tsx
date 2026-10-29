@@ -46,7 +46,7 @@ export const InStoreSection: React.FC<InStoreSectionProps> = ({ onOpenConsultati
           </div>
           <div className="lg:col-span-6">
             <div className="aspect-[4/5] w-full overflow-hidden bg-[#1B1715]">
-              <img src="https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&w=1400&q=80" alt="Salon Olfactive interior" className="w-full h-full object-cover" />
+              <img src="https://images.unsplash.com/photo-1563170351-be82bc888aa4?auto=format&fit=crop&w=1400&q=80" alt="Salon Olfactive interior" className="w-full h-full object-cover" />
             </div>
           </div>
         </div>
